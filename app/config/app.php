@@ -121,6 +121,7 @@ return array(
 		'Illuminate\Workbench\WorkbenchServiceProvider',
 
 		'Barryvdh\Debugbar\ServiceProvider',
+		'Frozennode\Administrator\AdministratorServiceProvider',
 	),
 
 	/*
