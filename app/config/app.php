@@ -122,6 +122,7 @@ return array(
 
 		'Barryvdh\Debugbar\ServiceProvider',
 		'Frozennode\Administrator\AdministratorServiceProvider',
+		'Way\Generators\GeneratorsServiceProvider'
 	),
 
 	/*
