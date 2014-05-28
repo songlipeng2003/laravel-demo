@@ -1,3 +1,6 @@
+@extends('layouts.default')
+
+@section('content')
 <table>
     <thead>
         <td>
@@ -20,3 +23,4 @@
         @endforeach
     </tbody>
 </table>
+@stop
