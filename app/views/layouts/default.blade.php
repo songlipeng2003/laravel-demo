@@ -6,6 +6,8 @@ $renderer = Debugbar::getJavascriptRenderer();
 <html>
     <head>
         <?php echo $renderer->renderHead() ?>
+        <?= stylesheet_link_tag() ?>
+        <?= javascript_include_tag() ?>
     </head>
     <body>
         @section('sidebar')

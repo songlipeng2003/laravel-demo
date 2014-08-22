@@ -6,7 +6,8 @@
 	"require": {
 		"laravel/framework": "4.1.*",
 	    "barryvdh/laravel-debugbar": "1.*",
-    	"frozennode/administrator": "dev-master"
+    	"frozennode/administrator": "dev-master",
+    	"codesleeve/asset-pipeline": "dev-master"
 	},
 	"require-dev": {
 	    "way/generators": "2.*"
