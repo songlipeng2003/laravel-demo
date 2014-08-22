@@ -52,6 +52,9 @@ return array(
 	 *	)
 	 */
 	'menu' => array(
+		'Settings' => array(
+			'settings.site'
+		),
 		'products'
 	),
 
@@ -61,7 +64,7 @@ return array(
 	 *
 	 * @type closure
 	 */
-	'permission'=> function()
+	'permission' => function()
 	{
 		return true;
 		//return Auth::check();
