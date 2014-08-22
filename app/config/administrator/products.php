@@ -12,7 +12,7 @@ return array(
     ),
 
     'filters' => array(
-        'email',
+        'title',
     ),
 
     'edit_fields'=>array(
